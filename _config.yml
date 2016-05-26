@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Digital Fabrication
+title: Camilla Abreu
 locale: en_US
-description: Describe your website here.
+description: This is a blog that describes a research in Digital Fabrication at IIT instructed by Professor Brett Ballogh.
 logo: site-logo.png
 search: true
 url: http://millaabreu.github.io/
