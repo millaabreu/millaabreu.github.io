@@ -5,7 +5,7 @@ description:
 headline: 
 modified: 2016-05-26
 category: webdevelopment
-tags: [jekyll]
+tags: 
 imagefeature: 
 mathjax: 
 chart: 
