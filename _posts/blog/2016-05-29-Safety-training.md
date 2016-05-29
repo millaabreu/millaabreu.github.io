@@ -13,6 +13,6 @@ Today, everybody from the research went to the building of materials and metal (
 I took a photo of our first attemp of using those machines. It was pretty neat:
 
 <figure>
-	<img src="/images/IMG_1164.jpg" alt="image">
+	<img src="/images/IMG_1164.JPG" alt="image">
 	<figcaption> Our first tries making a piece of solid wood workable.</figcaption>
 </figure>
