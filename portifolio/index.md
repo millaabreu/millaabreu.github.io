@@ -3,6 +3,9 @@ layout: page
 title: Portifolio
 excerpt: "An archive of works I did during my undergraduation."
 search_omit: true
+ feature: so-simple-sample-image-4.jpg
+  credit: WeGraphics
+  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
 <ul class="post-list">
