@@ -4,7 +4,7 @@ title: Portifolio
 excerpt: "An archive of works I did during my undergraduation."
 search_omit: true
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: so-simple-sample-image-2.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
