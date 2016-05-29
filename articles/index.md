@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Portfolio
+title: article
 excerpt: "An archive of works I did during my undergraduation."
 search_omit: true
 ---
