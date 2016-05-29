@@ -20,4 +20,5 @@ image:
 * [Custom 404 page]({{ site.url }}/404.html) to get you started.
 * [Simple site search](https://github.com/christian-fei/Simple-Jekyll-Search)
 * Support for Disqus Comments
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install So Simple Theme</a>
+* 
+<a markdown="0" href="{{ site.url }}/curriculum.pdf" class="btn">Download Curriculum Vitae</a>
