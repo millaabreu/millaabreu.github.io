@@ -9,10 +9,9 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 ## Camilla Ribeiro de Abreu
-* I'm a student of the major Architecture and Urbanism at the University of Brasilia at Brasilia, Brazil. I started my undergraduation at 2011 and after four years of study I applied for a study abroad program for one year 
-Looking for a simple, responsive, theme for your Jekyll powered blog? Well look no further. Here be **So Simple Theme**, the follow up to [**Minimal Mistakes**](http://mmistakes.github.io/minimal-mistakes) --- by designer slash illustrator [Michael Rose](http://mademistakes.com).
+* I'm a student of the major Architecture and Urbanism at the University of Brasilia at Brasilia, Brazil. I started my undergraduation at 2011 and after four years of study I applied for a study abroad program for one year at United State. Since I was selected by BSMP program I've lived for 9 months at Upstate New York at a small village called Alfred and now I'm doing my Academic Training at IIT at Chicago.
 
-## So Simple Theme is all about:
+### My Skills and Interests:
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
