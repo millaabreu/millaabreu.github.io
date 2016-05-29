@@ -3,7 +3,7 @@ layout: post
 title: "Metro Station"
 modified:
 categories: portifolio
-excerpt:Design Studio 4: Larges Spans
+excerpt: Design Studio 4: Larges Spans
 tags: []
 image:
   feature:
