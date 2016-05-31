@@ -8,6 +8,8 @@ tags: []
 image:
   feature:
 date: 2016-05-26T08:08:50-04:00
+comments: true
+share: true
 ---
 this is my first try doing this blog thing, although I try some times to do something html and having fun with that when I was younger,
 I never trully tried to persue this tool to publish my ideas and projects but now with the help of my professor I hope I can start doing 
