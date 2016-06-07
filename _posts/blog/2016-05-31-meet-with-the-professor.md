@@ -22,10 +22,12 @@ Below some screenshots of the use of the program:
 	<a href="/image/tuesday1.psd"><img src="/image/tuesday1.psd" alt="image"></a>
 	<figcaption>First we draw each side of that were able to mirrow later </a>.</figcaption>
 </figure>
+
 <figure>
 	<a href="/image/tuesday2.psd"><img src="/image/tuesday2.psd" alt="image"></a>
 	<figcaption>Here we have the 3d model already set as how we were going to proceded </a>.</figcaption>
 </figure>
+
 <figure>
 	<a href="/image/tuesday3.psd"><img src="/image/tuesday3.psd" alt="image"></a>
 	<figcaption>First Here is a zoom of the exported screw the we were going to use in the real model </a>.</figcaption>
