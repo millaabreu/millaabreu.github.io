@@ -19,16 +19,16 @@ He explained how we were able to assemble a cube that would be having screws and
 Below some screenshots of the use of the program:
 
 <figure>
-<img src="/image/tuesday1.jpg" alt="image">
+<img src="/images/tuesday1.psd" alt="image">
 	<figcaption> First we draw each side of that were able to mirrow later </a>.</figcaption>
 </figure>
 
 <figure>
-	<img src="/image/tuesday2.jpg" alt="image">
+	<img src="/images/tuesday2.psd" alt="image">
 	<figcaption> Here we have the 3d model already set as how we were going to proceded </a>.</figcaption>
 </figure>
 
 <figure>
-	<img src="/image/tuesday3.jpg" alt="image">
+	<img src="/images/tuesday3.psd" alt="image">
 	<figcaption> First Here is a zoom of the exported screw the we were going to use in the real model </a>.</figcaption>
 </figure>
